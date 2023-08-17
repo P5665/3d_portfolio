@@ -25,7 +25,7 @@ const Navbar = () => {
 						className='object-contain w-9 h-9'
 					/>
 					<p className='flex text-white text-[18px] font-bold cursor-pointer'>
-						Ben &nbsp; <span className='hidden sm:block'>| Portfolio</span>
+						Ben &nbsp; <span className='hidden sm:block'>| &nbsp; Portfolio</span>
 					</p>
 				</Link>
 				<ul className='hidden gap-10 list-none sm:flex'>
